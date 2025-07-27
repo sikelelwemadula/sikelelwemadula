@@ -1,4 +1,6 @@
 ## Hi there 👋 The name's Sike 
+![alt text](https://github.com/sikelelwemadula/sikelelwemadula/blob/main/Profile%20Software%20Engineer%20LinkedIn%20Banner%203%20-%20Made%20with%20PosterMyWall.jpg)
+
 I am a student at CodeSpace and I am currenlty enrolled in a Software Developer course.
 Follow along and track my progress as I grow my coding knowledge 🔎
 
