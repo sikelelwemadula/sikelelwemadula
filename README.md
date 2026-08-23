@@ -1,15 +1,22 @@
 ## Hi there 👋 The name's Sike 
 ![alt text](https://github.com/sikelelwemadula/sikelelwemadula/blob/main/Profile%20Software%20Engineer%20LinkedIn%20Banner%203%20-%20Made%20with%20PosterMyWall.jpg)
 
-I am a student at CodeSpace and I am currenlty enrolled in a Software Developer course.
-Follow along and track my progress as I grow my coding knowledge 🔎
+I am a recent Software Developer graduate from CodeSpace Academy. 
+I am currently seeking my first Dev job and I'm ready to enter the industry and hit the ground running.🔎
 
 ### I’m currently working on -
-Tailwind and learning about how to intergrate it correctly into HTML.
+Increasing my understanding of React.
 
-### I’m currently learning -
-- CSS
-- Tailwind
+### My Stack -
+•Html5
+•CSS3
+•JavaScript
+
+### Frameworks - 
+•Tailwind
+
+### Libraries -
+•React
 
 ### Contact Info -
 Email - sikemadula@gmail.com 
